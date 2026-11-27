@@ -1,8 +1,8 @@
-# Nusantara in Numbers
+[![make.fun bounty](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=badge)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/soedirman566-stack/stats-site-final/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=badge)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/soedirman566-stack/stats-site-final/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=badge)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-orange)](https://make.fun/c/best-national-statistics-site-20261126-0539)
-[![Status: entry](https://img.shields.io/badge/status-entry-green)](https://make.fun/c/best-national-statistics-site-20261126-0539)
+# Nusantara in Numbers
 
 An offline explorer for Indonesia's national statistics — population, economy, all 38 provinces, and wellbeing, 2015–2025. Built for the make.fun bounty [best-national-statistics-site-20261126-0539](https://make.fun/c/best-national-statistics-site-20261126-0539).
 
